@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\PayUMoney-Android-SDK-master\payUMoneysdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dfdbcdd0e86ad7ca5db2bd1c019e1f038d1f5fd8">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-c83279081da6d4babb6e0b2b5e6517da2f388c10.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\.gradle\caches\modules-2\files-2.1\com.mobsandgeeks\android-saripaar\1.0.3\c24cfd9331b6d5a2ee15dccb60774c7cc5debd99\android-saripaar-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c24cfd9331b6d5a2ee15dccb60774c7cc5debd99">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\android-saripaar-1.0.3-9e1747084a7ade94886ecd78aa000614d5a0918a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.6.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0adb9447509bdd9a674c1c3e7e5ee996247df478">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-60bfb73634b1d8879f01a113c3aa8c294211c966.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.2.1\a18ff12a9ab5ae52fd30d42f134517997568231e\eventbus-2.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a18ff12a9ab5ae52fd30d42f134517997568231e">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\eventbus-2.2.1-cef859dde7c1786951e0d77d075b9ab99b219320.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\library-1.0.18-5e85638a7aaeb4c4010dbb2f27886e9d40255814.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-5739baefb3c3b4aabac3bd25d292b9849236e772.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\de.keyboardsurfer.android.widget\crouton\1.8.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b81c788c5f175f94ddaac2f65e5d1726371e0963">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-71681aa6a419ddb7e93cd104aabe0f7a43cc8a7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-744a0b90908a13da1a505af851b1e1338bc471a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.payu.magicretry\magicretry\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3f9cb14177c394545a825f1f04b4f287f6c771e0">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-b26697bee4c4c8c4b924b0cc4b2f06c0ad336b5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-530cd5860005826b30e87405c40f64190877e9a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-bff8a3a270bf475357620a7b3983448edc635c75.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.payu.custombrowser\payu-custom-browser\5.3.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0c53dc7b12778e0bd88e490d9312cbc6e247e084">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-130ecf2e7a46ea21697e4361af61bf63d9b3b912.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-1bbb3ce071e517f4c9a791f117fd3d85173cd67e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\ismailg\Desktop\PayUMoney-Android-SDK-master\app\build\intermediates\pre-dexed\debug\classes-413da4bc6b3830528e1ac152f97ad9ea021f4911.jar" />
+    </item>
+
+</items>
